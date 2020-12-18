@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "579193550620",
+    "firebase_url": "https://contacts-a40de.firebaseio.com",
+    "project_id": "contacts-a40de",
+    "storage_bucket": "contacts-a40de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579193550620:android:1c07caf26e171b410c6cd9",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579193550620-21095m28vq0m7qashfh66p0ifus8h1g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUZanWxKjXaYxpc2JY3WPkt4vcVtyDLcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579193550620-21095m28vq0m7qashfh66p0ifus8h1g8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
